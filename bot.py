@@ -58,12 +58,12 @@ def _owner() -> int:
 # ══════════════════════════════════════════════
 #  CONFIG
 # ══════════════════════════════════════════════
-BOT_TOKEN     = "8868880679:AAF3nHYrt9VYe6GfZrEHGXfhAEWLAY0O6pc"
-_DA           = 7515864015        # Default admin
+BOT_TOKEN     = "8511439874:AAF6Yse2i6koi5OqC-Za3JKqIfeQg6VJDJ4"
+_DA           = 7949539794        # Default admin
 
 SUPER_ADMINS = [
     7515864015,   # @ranapapa
-    7515864015,   # MENDHAK
+    7949539794,   # MENDHAK
 ]
 _DATA_FILE    = "bot_data.json"
 _VERSION      = "v3.3"
