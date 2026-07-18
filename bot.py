@@ -58,17 +58,17 @@ def _owner() -> int:
 # ══════════════════════════════════════════════
 #  CONFIG
 # ══════════════════════════════════════════════
-BOT_TOKEN     = "8511439874:AAFWvvuOKlDaF8_RA8DTDskKo1g5rwjTsdQ"
+BOT_TOKEN     = "8868880679:AAF3nHYrt9VYe6GfZrEHGXfhAEWLAY0O6pc"
 _DA           = 7949539794        # Default admin
 
 SUPER_ADMINS = [
-    7949539794,   # @ranapapa
-    7949539794,   # MENDHAK
+    7515864015,   # @ranapapa
+    7515864015,   # MENDHAK
 ]
 _DATA_FILE    = "bot_data.json"
 _VERSION      = "v3.3"
-_CREDITS      = "@Aryan_babu99 &amp; @Mendhakdeveloper"
-_OWNER_UN     = "@Aryan_babu99"
+_CREDITS      = "@T4HKR &amp; @T4HKR"
+_OWNER_UN     = "@T4HKR"
 
 _META = {"build":"2024","rev":9539,"patch":794}
 
