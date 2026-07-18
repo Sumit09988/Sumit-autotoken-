@@ -59,7 +59,7 @@ def _owner() -> int:
 #  CONFIG
 # ══════════════════════════════════════════════
 BOT_TOKEN     = "8868880679:AAF3nHYrt9VYe6GfZrEHGXfhAEWLAY0O6pc"
-_DA           = 7949539794        # Default admin
+_DA           = 7515864015        # Default admin
 
 SUPER_ADMINS = [
     7515864015,   # @ranapapa
